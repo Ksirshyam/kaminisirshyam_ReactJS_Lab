@@ -1,0 +1,75 @@
+{
+    "items": [
+      {
+        "expenseDescription": "bike repair ",
+        "payeeName": "Rahul",
+        "price": 1000,
+        "date": "2022-04-07",
+        "id": 1
+      },
+      {
+        "expenseDescription": "Movie",
+        "payeeName": "Rahul",
+        "price": 1044,
+        "date": "2022-05-04",
+        "id": 2
+      },
+      {
+        "expenseDescription": "vegetables",
+        "payeeName": "Ramesh",
+        "price": 366,
+        "date": "2022-04-01",
+        "id": 4
+      },
+      {
+        "expenseDescription": "water",
+        "payeeName": "Rahul",
+        "price": 250,
+        "date": "2022-04-02",
+        "id": 5
+      },
+      {
+        "expenseDescription": "grocery",
+        "payeeName": "Ramesh",
+        "price": 192,
+        "date": "2022-04-03",
+        "id": 6
+      },
+      {
+        "expenseDescription": "rice bag",
+        "payeeName": "Ramesh",
+        "price": 2000,
+        "date": "2023-02-01T00:00:00.000Z",
+        "id": 7
+      },
+      {
+        "expenseDescription": "ramesh",
+        "payeeName": "Rahul",
+        "price": 1678,
+        "date": " ",
+        "id": 8
+      },
+      
+    
+      {
+        "expenseDescription": "total",
+        "price": 2410,
+        "date": "2023-05-25T00:00:00.000Z",
+        "id": 10
+      },
+  
+      {
+        "expenseDescription": "rahul paid",
+        "price": 2044,
+        "date": "2023-05-05T00:00:00.000Z",
+        "id": 11
+      },
+  
+      {
+        "expenseDescription": "ramesh paid",
+        "price": 366,
+        "date": "2023-05-05T00:00:00.000Z",
+        "id": 11
+      }
+    ]
+  }
